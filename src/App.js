@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import LifecycleEx from './components/R007_LifecycleEx'
+import LifecycleEx from './components/R007_LifecycleEx.js'
 
 function App() {
   return (
