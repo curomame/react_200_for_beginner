@@ -1,13 +1,13 @@
 import React from "react";
 import './App.css';
-import ArrowFunc from './components/R013_ArrowFunction.js'
+import Jquery from './components/R016_Jquery'
 
 function App() {
   return (
   <div>
     <h1>Start React 200!</h1>  
     <p>CSS 적용하기</p>
-    <ArrowFunc/>
+    <Jquery/>
   </div>
   );
 }
