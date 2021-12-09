@@ -1,13 +1,14 @@
 import React from "react";
 import './App.css';
-import ForceUpdate from './components/R026_ForceUpdate'
+import ReactstrapDropdown from './components/R037_ReactstrapDropdown'
+import 'bootstrap/dist/css/bootstrap.css'
 
 function App() {
   return (
   <div>
     <h1>Start React 200!</h1>  
     <p>CSS 적용하기</p>
-    <ForceUpdate />
+    <ReactstrapDropdown />
   </div>
   );
 }
