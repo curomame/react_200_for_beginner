@@ -1,11 +1,11 @@
 import React from "react";
-import AxiosPost from './components2/R062_AxiosPost'
+import ReactChange from './components2/R067_onChange'
 
 function App() {
   return (
   <div>
     <h1>Start React 200!</h1>  
-    <AxiosPost />
+    <ReactChange />
   </div>
   );
 }
