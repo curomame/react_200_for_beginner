@@ -1,11 +1,11 @@
 import React from "react";
-import ReactChange from './components2/R067_onChange'
+import ReactonSubmit from './components2/R072_OnSubmit'
 
 function App() {
   return (
   <div>
     <h1>Start React 200!</h1>  
-    <ReactChange />
+    <ReactonSubmit />
   </div>
   );
 }
